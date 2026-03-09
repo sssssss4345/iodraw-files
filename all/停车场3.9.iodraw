@@ -309,7 +309,7 @@
         <mxCell id="mKTUkSlppR9exfdcDk5f-5" value="车位管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1262" y="-5.5" width="120" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="mKTUkSlppR9exfdcDk5f-6" value="系统信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mKTUkSlppR9exfdcDk5f-6" value="车牌识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1406" y="-5.5" width="120" height="26" as="geometry" />
         </mxCell>
         <mxCell id="mKTUkSlppR9exfdcDk5f-7" value="车牌识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
