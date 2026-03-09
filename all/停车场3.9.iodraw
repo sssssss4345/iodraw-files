@@ -704,9 +704,6 @@
         <mxCell id="IBFFvntJAobx4j9Eo4xP-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="CLXjceGjFTzWECLB72yH-1" source="IBFFvntJAobx4j9Eo4xP-77" target="IBFFvntJAobx4j9Eo4xP-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IBFFvntJAobx4j9Eo4xP-72" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="CLXjceGjFTzWECLB72yH-1" source="IBFFvntJAobx4j9Eo4xP-77" target="IBFFvntJAobx4j9Eo4xP-83">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.311;entryY=0.149;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="CLXjceGjFTzWECLB72yH-1" source="IBFFvntJAobx4j9Eo4xP-77" target="IBFFvntJAobx4j9Eo4xP-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -723,13 +720,13 @@
           <mxGeometry x="1700" y="-26.5" width="63" height="29" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-78" value="车位编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="1784" y="-98" width="67" height="37" as="geometry" />
+          <mxGeometry x="1811" y="-113" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-79" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="CLXjceGjFTzWECLB72yH-1" source="IBFFvntJAobx4j9Eo4xP-80" target="IBFFvntJAobx4j9Eo4xP-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-80" value="车牌号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="1640" y="-104" width="67" height="37" as="geometry" />
+          <mxGeometry x="1680" y="-136" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-81" value="停车时长" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
           <mxGeometry x="1831" y="-61" width="67" height="37" as="geometry" />
@@ -738,22 +735,19 @@
           <mxGeometry x="1649" y="91" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-83" value="记录编号ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="1588" y="-63.5" width="67" height="37" as="geometry" />
+          <mxGeometry x="1616" y="-108" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-84" value="结束时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
           <mxGeometry x="1736" y="86" width="67" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="IBFFvntJAobx4j9Eo4xP-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="CLXjceGjFTzWECLB72yH-1" source="IBFFvntJAobx4j9Eo4xP-86" target="IBFFvntJAobx4j9Eo4xP-77">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-86" value="车辆照片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="1588" y="-11" width="67" height="37" as="geometry" />
+          <mxGeometry x="1603" y="-19" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-87" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
           <mxGeometry x="1855" y="-15" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-88" value="当前状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="1712" y="-121" width="67" height="37" as="geometry" />
+          <mxGeometry x="1749" y="-150" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-89" value="预计费用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
           <mxGeometry x="1813" y="78" width="67" height="37" as="geometry" />
