@@ -121,14 +121,6 @@
         <mxCell id="fLH941mM4zqAaev8-v84-46" value="系统管理端用例图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-47" y="460" width="106" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="fLH941mM4zqAaev8-v84-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fLH941mM4zqAaev8-v84-49" target="fLH941mM4zqAaev8-v84-62" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="729" y="76" />
-              <mxPoint x="585" y="76" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fLH941mM4zqAaev8-v84-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fLH941mM4zqAaev8-v84-49" target="fLH941mM4zqAaev8-v84-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -148,6 +140,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MRRWFOSE-myKuMDsrYH6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fLH941mM4zqAaev8-v84-49" target="MRRWFOSE-myKuMDsrYH6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MRRWFOSE-myKuMDsrYH6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fLH941mM4zqAaev8-v84-49" target="fLH941mM4zqAaev8-v84-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fLH941mM4zqAaev8-v84-49" value="&lt;font style=&quot;font-size: 14px&quot;&gt;系统管理员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
