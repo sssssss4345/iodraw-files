@@ -568,44 +568,13 @@
         <mxCell id="lkI0CDcrFqs_xvw81_IX-31" value="公告ID" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
           <mxGeometry x="612" y="241" width="67" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="lkI0CDcrFqs_xvw81_IX-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.303;entryY=0.878;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="CLXjceGjFTzWECLB72yH-1" source="lkI0CDcrFqs_xvw81_IX-39" target="lkI0CDcrFqs_xvw81_IX-40" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lkI0CDcrFqs_xvw81_IX-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="CLXjceGjFTzWECLB72yH-1" source="lkI0CDcrFqs_xvw81_IX-39" target="lkI0CDcrFqs_xvw81_IX-43" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lkI0CDcrFqs_xvw81_IX-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="CLXjceGjFTzWECLB72yH-1" source="lkI0CDcrFqs_xvw81_IX-39" target="lkI0CDcrFqs_xvw81_IX-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lkI0CDcrFqs_xvw81_IX-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="CLXjceGjFTzWECLB72yH-1" source="lkI0CDcrFqs_xvw81_IX-39" target="lkI0CDcrFqs_xvw81_IX-45" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="lkI0CDcrFqs_xvw81_IX-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="CLXjceGjFTzWECLB72yH-1" source="lkI0CDcrFqs_xvw81_IX-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="767.6369894965255" y="-83.60274212239415" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lkI0CDcrFqs_xvw81_IX-39" value="车位信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
           <mxGeometry x="656" y="-62" width="63" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="lkI0CDcrFqs_xvw81_IX-40" value="所属区域" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
-          <mxGeometry x="689" y="-148" width="67" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="lkI0CDcrFqs_xvw81_IX-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="CLXjceGjFTzWECLB72yH-1" source="lkI0CDcrFqs_xvw81_IX-42" target="lkI0CDcrFqs_xvw81_IX-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lkI0CDcrFqs_xvw81_IX-42" value="车位名称" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
-          <mxGeometry x="608" y="-140" width="67" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="lkI0CDcrFqs_xvw81_IX-43" value="当前状态" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
-          <mxGeometry x="754" y="-117" width="67" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="lkI0CDcrFqs_xvw81_IX-44" value="描述" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
-          <mxGeometry x="627" y="1.5" width="67" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="lkI0CDcrFqs_xvw81_IX-45" value="车位编号" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
-          <mxGeometry x="570" y="-29" width="67" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="lkI0CDcrFqs_xvw81_IX-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="CLXjceGjFTzWECLB72yH-1" source="lkI0CDcrFqs_xvw81_IX-47" target="lkI0CDcrFqs_xvw81_IX-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lkI0CDcrFqs_xvw81_IX-47" value="车位ID" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
-          <mxGeometry x="568" y="-82" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="lkI0CDcrFqs_xvw81_IX-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.303;entryY=0.878;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="CLXjceGjFTzWECLB72yH-1" source="lkI0CDcrFqs_xvw81_IX-53" target="lkI0CDcrFqs_xvw81_IX-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
