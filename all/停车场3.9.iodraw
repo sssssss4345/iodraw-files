@@ -733,6 +733,9 @@
         <mxCell id="IBFFvntJAobx4j9Eo4xP-43" value="车位类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
           <mxGeometry x="1048" y="-88" width="67" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="IBFFvntJAobx4j9Eo4xP-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="CLXjceGjFTzWECLB72yH-1" source="IBFFvntJAobx4j9Eo4xP-44" target="IBFFvntJAobx4j9Eo4xP-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-44" value="车位价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
           <mxGeometry x="1113" y="96" width="67" height="36.5" as="geometry" />
         </mxCell>
