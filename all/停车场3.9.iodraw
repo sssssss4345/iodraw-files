@@ -475,11 +475,10 @@
         <mxCell id="CLXjceGjFTzWECLB72yH-66" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
           <mxGeometry x="493" y="-279" width="67" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="CLXjceGjFTzWECLB72yH-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="CLXjceGjFTzWECLB72yH-1" source="CLXjceGjFTzWECLB72yH-68" target="CLXjceGjFTzWECLB72yH-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CLXjceGjFTzWECLB72yH-68" value="车辆照片" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
-          <mxGeometry x="406" y="-458" width="67" height="37" as="geometry" />
+        <mxCell id="CLXjceGjFTzWECLB72yH-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="CLXjceGjFTzWECLB72yH-1" target="CLXjceGjFTzWECLB72yH-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="463.33402540916063" y="-452.5003774959059" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lkI0CDcrFqs_xvw81_IX-0" value="用户信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
           <mxGeometry x="1374.1" y="235" width="63" height="29" as="geometry" />
