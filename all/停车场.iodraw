@@ -66,8 +66,11 @@
         <mxCell id="fLH941mM4zqAaev8-v84-13" value="公告信息增删改查操作" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="93" y="362" width="107" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="fLH941mM4zqAaev8-v84-36" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;&#xa;&#xa;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="fLH941mM4zqAaev8-v84-14" target="fLH941mM4zqAaev8-v84-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fLH941mM4zqAaev8-v84-36" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;&#xa;&#xa;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Qv-9vOmNIPiJlCaiA6JC-1" target="fLH941mM4zqAaev8-v84-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="62" y="187.8" as="sourcePoint" />
+            <mxPoint x="186.93875049287863" y="155.9974089654491" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fLH941mM4zqAaev8-v84-14" value="运营记录管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-41" y="214" width="94" height="39" as="geometry" />
@@ -101,8 +104,8 @@
         <mxCell id="fLH941mM4zqAaev8-v84-25" value="车位管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-23" y="95" width="94" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="fLH941mM4zqAaev8-v84-27" value="出入库信息增删改查操作" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="171" y="172" width="94" height="39" as="geometry" />
+        <mxCell id="fLH941mM4zqAaev8-v84-27" value="出入库信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="189" y="160.75" width="94" height="39" as="geometry" />
         </mxCell>
         <mxCell id="fLH941mM4zqAaev8-v84-41" value="修改密码" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="239" y="327" width="107" height="47" as="geometry" />
