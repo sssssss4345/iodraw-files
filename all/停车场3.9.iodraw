@@ -575,6 +575,9 @@
         <mxCell id="lkI0CDcrFqs_xvw81_IX-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="CLXjceGjFTzWECLB72yH-1" source="lkI0CDcrFqs_xvw81_IX-69" target="lkI0CDcrFqs_xvw81_IX-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IBFFvntJAobx4j9Eo4xP-94" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CLXjceGjFTzWECLB72yH-1" source="lkI0CDcrFqs_xvw81_IX-69" target="IBFFvntJAobx4j9Eo4xP-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lkI0CDcrFqs_xvw81_IX-69" value="登录账号" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
           <mxGeometry x="1474" y="203" width="67" height="37" as="geometry" />
         </mxCell>
@@ -762,6 +765,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1605" y="13" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IBFFvntJAobx4j9Eo4xP-93" value="登录账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
+          <mxGeometry x="1327" y="203" width="67" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
