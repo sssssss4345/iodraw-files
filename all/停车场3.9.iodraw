@@ -297,7 +297,7 @@
         <mxCell id="mKTUkSlppR9exfdcDk5f-1" value="车位概览" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-28" y="2" width="94" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="mKTUkSlppR9exfdcDk5f-2" value="车辆信息增删改查操作" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mKTUkSlppR9exfdcDk5f-2" value="车辆信息预览" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="171" y="-3" width="94" height="39" as="geometry" />
         </mxCell>
         <mxCell id="mKTUkSlppR9exfdcDk5f-4" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;&#xa;&#xa;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mKTUkSlppR9exfdcDk5f-1" target="mKTUkSlppR9exfdcDk5f-2">
