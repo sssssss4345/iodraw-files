@@ -756,6 +756,9 @@
         <mxCell id="IBFFvntJAobx4j9Eo4xP-96" value="登录密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
           <mxGeometry x="1427" y="188" width="67" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="IBFFvntJAobx4j9Eo4xP-105" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="CLXjceGjFTzWECLB72yH-1" source="IBFFvntJAobx4j9Eo4xP-97" target="lkI0CDcrFqs_xvw81_IX-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-97" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
           <mxGeometry x="1273" y="274" width="67" height="37" as="geometry" />
         </mxCell>
