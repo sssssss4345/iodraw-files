@@ -469,11 +469,6 @@
         <mxCell id="CLXjceGjFTzWECLB72yH-68" value="车辆照片" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
           <mxGeometry x="426" y="-440.5" width="67" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="CLXjceGjFTzWECLB72yH-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="CLXjceGjFTzWECLB72yH-1" target="CLXjceGjFTzWECLB72yH-27" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="565.5" y="-531" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lkI0CDcrFqs_xvw81_IX-19" value="n" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="CLXjceGjFTzWECLB72yH-1" source="lkI0CDcrFqs_xvw81_IX-0" target="lkI0CDcrFqs_xvw81_IX-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -677,6 +672,9 @@
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-4" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
           <mxGeometry x="639" y="-444.5" width="67" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="IBFFvntJAobx4j9Eo4xP-6" value="车位编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
+          <mxGeometry x="599" y="-521" width="67" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
