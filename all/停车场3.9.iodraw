@@ -770,25 +770,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-114" value="公告内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="1105" y="393" width="67" height="37" as="geometry" />
+          <mxGeometry x="1128" y="378" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-115" value="公告标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="726" y="317" width="67" height="37" as="geometry" />
+          <mxGeometry x="1013" y="301" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-116" value="公告状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="857" y="368" width="67" height="37" as="geometry" />
+          <mxGeometry x="1110" y="422" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-117" value="发布时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="790" y="434" width="67" height="37" as="geometry" />
+          <mxGeometry x="949" y="426" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-118" value="公告ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="688" y="372" width="67" height="37" as="geometry" />
+          <mxGeometry x="946" y="330" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-119" value="公告类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
           <mxGeometry x="705" y="422" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-120" value="创建者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="873" y="415" width="67" height="37" as="geometry" />
+          <mxGeometry x="1031" y="444" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-121" value="公告信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
           <mxGeometry x="1054" y="354" width="63" height="29" as="geometry" />
