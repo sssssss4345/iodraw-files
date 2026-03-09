@@ -481,7 +481,7 @@
         <mxCell id="CLXjceGjFTzWECLB72yH-68" value="车辆照片" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
           <mxGeometry x="406" y="-458" width="67" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="lkI0CDcrFqs_xvw81_IX-0" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
+        <mxCell id="lkI0CDcrFqs_xvw81_IX-0" value="用户信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
           <mxGeometry x="1374.1" y="235" width="63" height="29" as="geometry" />
         </mxCell>
         <mxCell id="lkI0CDcrFqs_xvw81_IX-13" value="m" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="CLXjceGjFTzWECLB72yH-1" source="IBFFvntJAobx4j9Eo4xP-34" target="lkI0CDcrFqs_xvw81_IX-12" edge="1">
@@ -518,7 +518,7 @@
         <mxCell id="lkI0CDcrFqs_xvw81_IX-9" value="发布" style="rhombus;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
           <mxGeometry x="1240.78" y="278.23" width="60" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="lkI0CDcrFqs_xvw81_IX-15" value="n" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CLXjceGjFTzWECLB72yH-1" source="lkI0CDcrFqs_xvw81_IX-10" edge="1" target="lkI0CDcrFqs_xvw81_IX-0">
+        <mxCell id="lkI0CDcrFqs_xvw81_IX-15" value="n" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CLXjceGjFTzWECLB72yH-1" source="lkI0CDcrFqs_xvw81_IX-10" edge="1" target="lkI0CDcrFqs_xvw81_IX-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1373" y="210" as="targetPoint" />
           </mxGeometry>
