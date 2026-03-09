@@ -394,7 +394,7 @@
         <mxCell id="CLXjceGjFTzWECLB72yH-32" value="开始时间" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
           <mxGeometry x="496" y="-410.5" width="67" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="CLXjceGjFTzWECLB72yH-33" value="车辆ID" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
+        <mxCell id="CLXjceGjFTzWECLB72yH-33" value="记录编号ID" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
           <mxGeometry x="426" y="-497.5" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CLXjceGjFTzWECLB72yH-34" value="结束时间" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
