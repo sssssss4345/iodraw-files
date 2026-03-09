@@ -229,13 +229,13 @@
         <mxCell id="fLH941mM4zqAaev8-v84-96" value="自定义编写SQL、调用MyBatis的API方法函数、调用MyBatis-Plus的API方法函数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1241" y="271" width="551" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="fLH941mM4zqAaev8-v84-97" value="车辆管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fLH941mM4zqAaev8-v84-97" value="车位概览" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1406" y="-42" width="120" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fLH941mM4zqAaev8-v84-98" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1262" y="-42" width="120" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="fLH941mM4zqAaev8-v84-101" value="车位管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fLH941mM4zqAaev8-v84-101" value="车辆管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1550" y="-42" width="120" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fLH941mM4zqAaev8-v84-102" value="运营记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
