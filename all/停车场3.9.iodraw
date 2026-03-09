@@ -162,7 +162,7 @@
         <mxCell id="fLH941mM4zqAaev8-v84-52" value="&lt;font style=&quot;font-size: 14px&quot;&gt;实时停车场动态模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="628" y="104" width="35" height="171" as="geometry" />
         </mxCell>
-        <mxCell id="fLH941mM4zqAaev8-v84-54" value="&lt;font style=&quot;font-size: 14px&quot;&gt;系统信息管理模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fLH941mM4zqAaev8-v84-54" value="&lt;font style=&quot;font-size: 14px&quot;&gt;公告信息管理模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="911" y="104" width="35" height="171" as="geometry" />
         </mxCell>
         <mxCell id="fLH941mM4zqAaev8-v84-55" value="&lt;span style=&quot;font-size: 14px&quot;&gt;运营记录管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
