@@ -119,7 +119,7 @@
           <mxGeometry x="-136" y="-168" width="130" height="22" as="geometry" />
         </mxCell>
         <mxCell id="fLH941mM4zqAaev8-v84-46" value="系统管理端用例图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-47" y="460" width="106" height="18" as="geometry" />
+          <mxGeometry x="-10" y="460" width="106" height="18" as="geometry" />
         </mxCell>
         <mxCell id="fLH941mM4zqAaev8-v84-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fLH941mM4zqAaev8-v84-49" target="fLH941mM4zqAaev8-v84-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
