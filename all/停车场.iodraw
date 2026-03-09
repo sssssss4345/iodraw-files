@@ -81,9 +81,6 @@
         <mxCell id="fLH941mM4zqAaev8-v84-16" value="车辆管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-28" y="38" width="94" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="fLH941mM4zqAaev8-v84-42" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="fLH941mM4zqAaev8-v84-20" target="fLH941mM4zqAaev8-v84-41" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="fLH941mM4zqAaev8-v84-20" value="用户信息增删改查操作" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="132" y="274" width="107" height="47" as="geometry" />
         </mxCell>
@@ -106,9 +103,6 @@
         </mxCell>
         <mxCell id="fLH941mM4zqAaev8-v84-27" value="出入库信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="182" y="156" width="94" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="fLH941mM4zqAaev8-v84-41" value="修改密码" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="239" y="327" width="107" height="47" as="geometry" />
         </mxCell>
         <mxCell id="fLH941mM4zqAaev8-v84-45" value="&lt;font style=&quot;font-size: 24px&quot;&gt;系统管理端&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-136" y="-168" width="130" height="22" as="geometry" />
