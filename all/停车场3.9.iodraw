@@ -470,7 +470,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CLXjceGjFTzWECLB72yH-63" value="登录密码" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
-          <mxGeometry x="550" y="-332" width="67" height="37" as="geometry" />
+          <mxGeometry x="550" y="-319" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CLXjceGjFTzWECLB72yH-66" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
           <mxGeometry x="493" y="-279" width="67" height="37" as="geometry" />
@@ -709,13 +709,16 @@
           <mxGeometry x="673" y="-274" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-19" value="身份信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="527" y="-192" width="67" height="37" as="geometry" />
+          <mxGeometry x="538" y="-198" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-20" value="用户姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
           <mxGeometry x="689" y="-225" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-21" value="车牌号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="608" y="-198" width="67" height="37" as="geometry" />
+          <mxGeometry x="617" y="-201" width="67" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="IBFFvntJAobx4j9Eo4xP-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="CLXjceGjFTzWECLB72yH-1" source="IBFFvntJAobx4j9Eo4xP-22" target="CLXjceGjFTzWECLB72yH-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-22" value="折扣率" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
           <mxGeometry x="480" y="-235" width="67" height="37" as="geometry" />
