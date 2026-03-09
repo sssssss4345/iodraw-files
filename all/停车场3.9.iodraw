@@ -398,13 +398,13 @@
           <mxGeometry x="649" y="-508" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CLXjceGjFTzWECLB72yH-32" value="开始时间" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
-          <mxGeometry x="478" y="-403.5" width="67" height="37" as="geometry" />
+          <mxGeometry x="438" y="-404" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CLXjceGjFTzWECLB72yH-33" value="记录编号ID" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
-          <mxGeometry x="426" y="-497.5" width="67" height="37" as="geometry" />
+          <mxGeometry x="406" y="-510.5" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CLXjceGjFTzWECLB72yH-34" value="结束时间" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
-          <mxGeometry x="558" y="-403.5" width="67" height="37" as="geometry" />
+          <mxGeometry x="515" y="-390" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CLXjceGjFTzWECLB72yH-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="CLXjceGjFTzWECLB72yH-1" source="CLXjceGjFTzWECLB72yH-38" target="CLXjceGjFTzWECLB72yH-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -470,7 +470,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CLXjceGjFTzWECLB72yH-68" value="车辆照片" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
-          <mxGeometry x="426" y="-440.5" width="67" height="37" as="geometry" />
+          <mxGeometry x="406" y="-458" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="lkI0CDcrFqs_xvw81_IX-19" value="n" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="CLXjceGjFTzWECLB72yH-1" source="lkI0CDcrFqs_xvw81_IX-0" target="lkI0CDcrFqs_xvw81_IX-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -680,7 +680,10 @@
           <mxGeometry x="530" y="-568" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-9" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="683" y="-452" width="67" height="37" as="geometry" />
+          <mxGeometry x="661" y="-394" width="67" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="IBFFvntJAobx4j9Eo4xP-10" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
+          <mxGeometry x="721" y="-421" width="67" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
