@@ -746,28 +746,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-95" value="登录账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="647" y="-309" width="67" height="37" as="geometry" />
+          <mxGeometry x="1516" y="235" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-96" value="登录密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="560" y="-309" width="67" height="37" as="geometry" />
+          <mxGeometry x="1455.5" y="203" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-97" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="503" y="-269" width="67" height="37" as="geometry" />
+          <mxGeometry x="1347" y="280" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-98" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="683" y="-264" width="67" height="37" as="geometry" />
+          <mxGeometry x="1519" y="280" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-99" value="身份类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="548" y="-188" width="67" height="37" as="geometry" />
+          <mxGeometry x="1455.5" y="374.5" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-100" value="用户姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="692.5" y="-215" width="67" height="37" as="geometry" />
+          <mxGeometry x="1600" y="347.5" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-101" value="车牌号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="627" y="-191" width="67" height="37" as="geometry" />
+          <mxGeometry x="1534.5" y="371.5" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-102" value="折扣率" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
-          <mxGeometry x="490" y="-225" width="67" height="37" as="geometry" />
+          <mxGeometry x="1397.5" y="337.5" width="67" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
