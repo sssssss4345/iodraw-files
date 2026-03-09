@@ -472,7 +472,7 @@
         <mxCell id="CLXjceGjFTzWECLB72yH-63" value="登录密码" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
           <mxGeometry x="550" y="-332" width="67" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="CLXjceGjFTzWECLB72yH-66" value="管理员ID" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
+        <mxCell id="CLXjceGjFTzWECLB72yH-66" value="用户ID" style="ellipse;whiteSpace=wrap;html=1;" parent="CLXjceGjFTzWECLB72yH-1" vertex="1">
           <mxGeometry x="493" y="-279" width="67" height="37" as="geometry" />
         </mxCell>
         <mxCell id="CLXjceGjFTzWECLB72yH-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="CLXjceGjFTzWECLB72yH-1" source="CLXjceGjFTzWECLB72yH-68" target="CLXjceGjFTzWECLB72yH-27" edge="1">
@@ -704,6 +704,9 @@
         </mxCell>
         <mxCell id="IBFFvntJAobx4j9Eo4xP-15" value="创建者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
           <mxGeometry x="347" y="-229" width="67" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="IBFFvntJAobx4j9Eo4xP-18" value="登录账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
+          <mxGeometry x="656" y="-262" width="67" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
