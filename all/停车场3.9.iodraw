@@ -673,6 +673,9 @@
         <mxCell id="IBFFvntJAobx4j9Eo4xP-2" value="车位价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
           <mxGeometry x="289" y="-415.5" width="67" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="IBFFvntJAobx4j9Eo4xP-4" value="停车时长" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CLXjceGjFTzWECLB72yH-1">
+          <mxGeometry x="656" y="-437" width="67" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
