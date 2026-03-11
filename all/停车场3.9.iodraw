@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram id="DWpHyLMCpUqQteeFZ0Ej" name="第 1 页">
-    <mxGraphModel dx="1192" dy="1227" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1211" dy="1011" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="MRRWFOSE-myKuMDsrYH6-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fLH941mM4zqAaev8-v84-2" target="MRRWFOSE-myKuMDsrYH6-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mKTUkSlppR9exfdcDk5f-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fLH941mM4zqAaev8-v84-2" target="mKTUkSlppR9exfdcDk5f-1">
+        <mxCell id="mKTUkSlppR9exfdcDk5f-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fLH941mM4zqAaev8-v84-2" target="mKTUkSlppR9exfdcDk5f-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fLH941mM4zqAaev8-v84-2" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -293,25 +293,25 @@
         <mxCell id="MRRWFOSE-myKuMDsrYH6-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;用户信息管理模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="104" width="35" height="171" as="geometry" />
         </mxCell>
-        <mxCell id="mKTUkSlppR9exfdcDk5f-1" value="车位概览" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mKTUkSlppR9exfdcDk5f-1" value="车位概览" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-28" y="2" width="94" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="mKTUkSlppR9exfdcDk5f-2" value="车位状况预览" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mKTUkSlppR9exfdcDk5f-2" value="车位状况预览" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="171" y="-3" width="94" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="mKTUkSlppR9exfdcDk5f-4" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;&#xa;&#xa;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mKTUkSlppR9exfdcDk5f-1" target="mKTUkSlppR9exfdcDk5f-2">
+        <mxCell id="mKTUkSlppR9exfdcDk5f-4" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 11px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/span&gt;&#xa;&#xa;" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mKTUkSlppR9exfdcDk5f-1" target="mKTUkSlppR9exfdcDk5f-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="76" y="21" as="sourcePoint" />
             <mxPoint x="169" y="16" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mKTUkSlppR9exfdcDk5f-5" value="车位管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mKTUkSlppR9exfdcDk5f-5" value="车位管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1262" y="-5.5" width="120" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="mKTUkSlppR9exfdcDk5f-6" value="车牌识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mKTUkSlppR9exfdcDk5f-6" value="车牌识别" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1406" y="-5.5" width="120" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="mKTUkSlppR9exfdcDk5f-7" value="运营记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mKTUkSlppR9exfdcDk5f-7" value="运营记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1550" y="-5.5" width="120" height="26" as="geometry" />
         </mxCell>
       </root>
